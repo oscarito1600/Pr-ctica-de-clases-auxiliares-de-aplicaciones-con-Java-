@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejercicio4ContarVocalA {
+public class Ejercicio5ContarVocalA {
 
     public static void main(String[] args) {
 
